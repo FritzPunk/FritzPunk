@@ -1,0 +1,30 @@
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\bin\Debug\ResistenceCalculator.exe.config
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\bin\Debug\ResistenceCalculator.exe
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\bin\Debug\ResistenceCalculator.pdb
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.ResistorCalculator.resources
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.Properties.Resources.resources
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.csproj.GenerateResource.Cache
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.exe
+C:\Users\Krunal\Documents\Visual Studio 2017\Projects\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.pdb
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\bin\Debug\ResistenceCalculator.exe.config
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\bin\Debug\ResistenceCalculator.exe
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\bin\Debug\ResistenceCalculator.pdb
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.ResistorCalculator.resources
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.Properties.Resources.resources
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.csproj.GenerateResource.cache
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.exe
+C:\Users\MrDisaster\Desktop\ResistenceCalculator\ResistenceCalculator\obj\Debug\ResistenceCalculator.pdb
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\obj\Debug\ResistenceCalculator.csprojResolveAssemblyReference.cache
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\obj\Debug\ResistenceCalculator.ResistorCalculator.resources
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\obj\Debug\ResistenceCalculator.Properties.Resources.resources
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\obj\Debug\ResistenceCalculator.csproj.GenerateResource.cache
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\obj\Debug\ResistenceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\obj\Debug\ResistenceCalculator.exe
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\obj\Debug\ResistenceCalculator.pdb
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\bin\Debug\ResistenceCalculator.exe.config
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\bin\Debug\ResistenceCalculator.exe
+C:\Users\MrDisaster\Desktop\ResistenceCalculator - Copy\ResistenceCalculator\bin\Debug\ResistenceCalculator.pdb
